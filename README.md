@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello friends 🤩🤩🤩
+
+Go check out my shenanigans at [charlotterosario.vercel.app](charlotterosario.vercel.app)
 
 <!--
 **charava/charava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
