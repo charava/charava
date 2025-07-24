@@ -1,6 +1,6 @@
 ## Hello friends
 
-Go check out my shenanigans at [charlotterosario.com](https://charlotterosario.com)
+shenanigans can be found at [charlotterosario.com](https://charlotterosario.com)
 
 <!--
 **charava/charava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
